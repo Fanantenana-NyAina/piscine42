@@ -37,8 +37,6 @@ void	display_combinations(void)
 		}
 		i++;
 	}
-	write_char('$'); // simulate cat -e end of line
-	write_char('\n');
 }
 
 int	main(void)
